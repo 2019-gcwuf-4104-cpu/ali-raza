@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Correct date of birth (example: 15/05/2003)
     const correctDate = {
-        day: '15',
-        month: '05',
-        year: '2003'
+        day: '06',
+        month: '02',
+        year: '2008'
     };
 
     // Format input to numbers only
